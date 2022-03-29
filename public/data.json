@@ -1,0 +1,16 @@
+{
+  "result": {
+    "list": [
+      {
+        "name": "小明",
+        "age": 20
+      },
+      {
+        "name": "小红",
+        "age": 19
+      }
+    ]
+  },
+  "code": 0,
+  "status": "success"
+}
